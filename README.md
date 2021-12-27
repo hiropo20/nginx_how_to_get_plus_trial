@@ -15,6 +15,7 @@ NGINX Plusを試していただく際のNGINX Plus Trial Licenseの取得手順�
 
 
 ### 無料トライアルの申請
+画面右側のフォームを入力してください
 <br><img src="https://user-images.githubusercontent.com/43058573/147427108-675713d6-6ff6-4a49-bb80-1cd4d0a63c04.png" alt="Trial1" width="500"><br>
 
 ### トライアルライセンスの発行 (申請から1～2日必要な場合があります)
@@ -26,3 +27,12 @@ NGINX Plusを試していただく際のNGINX Plus Trial Licenseの取得手順�
 <br><img src="https://user-images.githubusercontent.com/43058573/147427114-f8329970-e30c-47b3-bc37-1befbfb98f48.png" alt="Trial4" width="500"><br>
 本画面はNGINX Plus Trial Licenseとなります。
 必要となるライセンスファイルを確認しファイルを保存してください。
+
+### インストール手順
+各種プロダクトのインストール手順に従い、利用してください。
+
+[NGINX Plus Install手順](https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-plus/)
+[NGINX Controller Install手順](https://docs.nginx.com/nginx-controller/admin-guides/install/install-nginx-controller/)
+合わせてNGINX Controller Agent Install手順を確認してください
+[NGINX Ingress Controller 利用手順](https://docs.nginx.com/nginx-ingress-controller/installation/using-the-jwt-token-docker-secret/)
+ImageのPull、ImageのBuild等ご希望の手順を参照してください
