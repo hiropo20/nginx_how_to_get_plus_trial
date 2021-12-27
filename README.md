@@ -31,8 +31,10 @@ NGINX Plusを試していただく際のNGINX Plus Trial Licenseの取得手順�
 ### インストール手順
 各種プロダクトのインストール手順に従い、利用してください。
 
-[NGINX Plus Install手順](https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-plus/)
-[NGINX Controller Install手順](https://docs.nginx.com/nginx-controller/admin-guides/install/install-nginx-controller/)
+[NGINX Plus Install手順](https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-plus/)   
+
+[NGINX Controller Install手順](https://docs.nginx.com/nginx-controller/admin-guides/install/install-nginx-controller/)   
 合わせてNGINX Controller Agent Install手順を確認してください
-[NGINX Ingress Controller 利用手順](https://docs.nginx.com/nginx-ingress-controller/installation/using-the-jwt-token-docker-secret/)
+
+[NGINX Ingress Controller 利用手順](https://docs.nginx.com/nginx-ingress-controller/installation/using-the-jwt-token-docker-secret/)   
 ImageのPull、ImageのBuild等ご希望の手順を参照してください
