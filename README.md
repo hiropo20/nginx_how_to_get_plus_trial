@@ -1,4 +1,4 @@
-# NGINX Lab Plus Trial取得手順
+# NGINX Plus Trial取得手順
 
 NGINX Plusを試していただく際のNGINX Plus Trial Licenseの取得手順をまとめます
 
